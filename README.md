@@ -1,6 +1,15 @@
-# Olá, eu sou a Juliana Rainen ⚙️💻
+<img 
+src="./assets/github-banner-tech.jpg" 
+alt="Juliana Rainen Banner"
+/>
 
-### Desenvolvedora de Software | Estudante de Análise e Desenvolvimento de Sistemas
+<h1 align="center">
+Olá, eu sou Juliana Rainen ⚙️
+</h1>
+
+<h3 align="center">
+Software Developer | Building technology piece by piece
+</h3>
 
 > "Só sei que nada sei." — Sócrates  
 > Aprender, adaptar e construir: a tecnologia está sempre em evolução.
