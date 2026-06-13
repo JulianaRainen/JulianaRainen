@@ -1,5 +1,5 @@
 <img 
-src="./assets/github-banner-tech.jpg" 
+src="./github-banner-tech.jpg" 
 alt="Juliana Rainen Banner"
 />
 
