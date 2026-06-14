@@ -1,5 +1,5 @@
 <img 
-src="./github-banner-tech.jpg" 
+src="./background-hexagon-tech-dark.jpg.png" 
 alt="Juliana Rainen Banner"
 />
 
