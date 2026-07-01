@@ -1,7 +1,5 @@
-<img 
-src="./background-hexagon-tech-dark.jpg.png" 
-alt="Juliana Rainen Banner"
-/>
+
+
 
 <h1 align="center">
 Olá, eu sou Juliana Rainen ⚙️
